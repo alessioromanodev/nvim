@@ -6,7 +6,7 @@
 local M = {}
 M.plugins = "plugins"
 M.base46 = {
-	theme = "poimandres",
+	theme = "gruvbox",
   transparency = true;
 }
 
